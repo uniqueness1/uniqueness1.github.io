@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 试试 Try
+  - title: 关于我 About Me
     link: /
-  - title: 科研项目 Research
+  - title: 兴趣 Hobby
     link: /research.html
-  - title: 论文 Publications
+  - title: 日常 Dailylife
     link: /publications.html
